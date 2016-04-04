@@ -1,0 +1,16 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontFamily": "Courier New",
+    "editor.fontSize": 17,
+    "editor.lineHeight": 19,
+    "editor.glyphMargin": true,
+    "editor.wrappingColumn": 100,
+    "editor.wrappingIndent": "indent",
+    "editor.quickSuggestionsDelay": 1,
+    "editor.formatOnType": true,
+    "editor.overviewRulerLanes": 5,
+    "editor.fontLigatures": true,
+    "window.zoomLevel": 0,
+    "typescript.useCodeSnippetsOnMethodSuggest": true,
+    "editor.wordSeparators": "`~!@#$%^&*()-=+""[]{}\\|;:'\",.<>/?"
+}
